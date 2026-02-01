@@ -1,6 +1,6 @@
 # NVIDIA Certified Associate Generative AI LLMs (NCA-GENL)
 ---
-Hi, I’m **Manjul Solanke**. I have successfully completed the **NVIDIA NCA-GENL [Link)(https://www.linkedin.com/feed/update/urn:li:activity:7414669243301908481/)**.
+Hi, I’m **Manjul Solanke**. I have successfully completed the **NVIDIA NCA-GENL [Link](https://www.linkedin.com/feed/update/urn:li:activity:7414669243301908481/)**.
 
 ---
 ### 📖 About this Guide  
@@ -17,6 +17,7 @@ Collection of study materials, hands-on guides, and reference notes for preparin
 - [6. Distributed Training & Scaling](#6-distributed-training--scaling)
 - [7. NVIDIA GPU & AI Ecosystem](#7-nvidia-gpu--ai-ecosystem)
 - [8. End-to-End AI Lifecycle](#8-end-to-end-ai-lifecycle)
+- [9. NCA-GENLCHEAT SHEET](NCA-GENL-CHEAT-SHEET)
 
 ---
 
