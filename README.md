@@ -17,7 +17,7 @@ Collection of study materials, hands-on guides, and reference notes for preparin
 - [6. Distributed Training & Scaling](#6-distributed-training--scaling)
 - [7. NVIDIA GPU & AI Ecosystem](#7-nvidia-gpu--ai-ecosystem)
 - [8. End-to-End AI Lifecycle](#8-end-to-end-ai-lifecycle)
-- [9. NCA-GENLCHEAT SHEET](NCA-GENL-CHEAT-SHEET)
+- [9. References](#9-references)
 
 ---
 
@@ -180,8 +180,10 @@ Collection of study materials, hands-on guides, and reference notes for preparin
 
 ---
 
-## 📚 References
+## 9. References
 - https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy
 - [Transformer & LLM research papers](https://arxiv.org/abs/1706.03762)
+- [NCA-GENL Cheat-Sheet](https://drive.google.com/file/d/1t3QBwbH6MwT6l49nHuqrkhpFHX6Lc6Ty/view?usp=sharing)
 
+---
 
