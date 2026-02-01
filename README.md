@@ -181,9 +181,17 @@ Collection of study materials, hands-on guides, and reference notes for preparin
 ---
 
 ## 9. References
+- [Offical Exam Guide](https://nvdam.widen.net/s/rpdddpdgtc/nvt-certification-exam-study-guide-gen-ai-llm-3262644-r7-web)
 - https://www.youtube.com/watch?v=Ub3GoFaUcds&list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy
 - [Transformer & LLM research papers](https://arxiv.org/abs/1706.03762)
 - [NCA-GENL Cheat-Sheet](https://drive.google.com/file/d/1t3QBwbH6MwT6l49nHuqrkhpFHX6Lc6Ty/view?usp=sharing)
 
 ---
+### ⚠️ Disclaimer  
 
+This repository and its contents have been created to the best of my knowledge and personal experience while preparing for the NVIDIA NCA-GENL certification.  
+
+- This is not an official NVIDIA study guide.  
+- The official exam study guide provided by NVIDIA is the best and primary source of truth for exam preparation.  
+
+If you find errors or have better references, feel free to suggest improvements. PRs are always welcome 🙂
